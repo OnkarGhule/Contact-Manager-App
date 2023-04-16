@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/OnkarGhule/Contact-Manager-App.git/static/css/main.39b71805.chunk.css",
+    "main.js": "/OnkarGhule/Contact-Manager-App.git/static/js/main.85c5852e.chunk.js",
+    "main.js.map": "/OnkarGhule/Contact-Manager-App.git/static/js/main.85c5852e.chunk.js.map",
+    "runtime-main.js": "/OnkarGhule/Contact-Manager-App.git/static/js/runtime-main.5f3f7550.js",
+    "runtime-main.js.map": "/OnkarGhule/Contact-Manager-App.git/static/js/runtime-main.5f3f7550.js.map",
+    "static/js/2.3e12b084.chunk.js": "/OnkarGhule/Contact-Manager-App.git/static/js/2.3e12b084.chunk.js",
+    "static/js/2.3e12b084.chunk.js.map": "/OnkarGhule/Contact-Manager-App.git/static/js/2.3e12b084.chunk.js.map",
+    "index.html": "/OnkarGhule/Contact-Manager-App.git/index.html",
+    "static/css/main.39b71805.chunk.css.map": "/OnkarGhule/Contact-Manager-App.git/static/css/main.39b71805.chunk.css.map",
+    "static/js/2.3e12b084.chunk.js.LICENSE.txt": "/OnkarGhule/Contact-Manager-App.git/static/js/2.3e12b084.chunk.js.LICENSE.txt",
+    "static/media/user.35a9c90c.jpg": "/OnkarGhule/Contact-Manager-App.git/static/media/user.35a9c90c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f3f7550.js",
+    "static/js/2.3e12b084.chunk.js",
+    "static/css/main.39b71805.chunk.css",
+    "static/js/main.85c5852e.chunk.js"
+  ]
+}
